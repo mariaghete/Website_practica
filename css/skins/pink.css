@@ -20,7 +20,7 @@ body.dark .social li a:hover,
 .owl-theme .owl-dots .owl-dot:hover span,
 #navigation.is-fixed ul li a:before,
 .work-section .action--close>span:hover .navigation-close-line{
-    background-color: #E91E63;
+    background-color: #f190b0;
 }
 
 .btn.main-btn,
@@ -33,7 +33,7 @@ body.dark .social li a:hover,
 body.dark .contact-section input[type=text]:focus,
 body.dark .contact-section input[type=email]:focus,
 body.dark .contact-section textarea:focus{
-    border: 1px solid #E91E63;
+    border: 1px solid #f190b0;
 }
 #navigation.is-fixed ul li a.active,
 #navigation.is-fixed ul li a:hover,
@@ -49,12 +49,12 @@ body.dark .home-section .hero-section h2 span,
 .home-section .home-social .social li a:hover,
 body.image .home-section .home-social .social li a:hover,
 body.video .home-section .home-social .social li a:hover{
-    color: #E91E63;
+    color: #f190b0;
 }
 
 .right-dotted-shape,
 .badges:after{
-    background: radial-gradient(circle at center, #E91E63 10%, transparent 20%), transparent;
+    background: radial-gradient(circle at center, #f190b0 10%, transparent 20%), transparent;
     background-size: 19px 18px;
 }
 .home-section .circles li {
