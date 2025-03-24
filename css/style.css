@@ -146,17 +146,17 @@ body.dark .contact-section input[type="email"],
 body.dark .contact-section textarea,
 body.dark .blog-section .post-content,
 body.dark .meta {
-    background-color: #383838;
+    background-color: #585858fe;
 }
 
 body.dark .about-section .chart-bar,
 body.dark .about-section .resume-header p:first-child:after,
 body.dark .contact-section .separator {
-    background-color: #6f6d6d;
+    background-color: #585858fe;
 }
 
 body.dark .meta > span:not(:last-child):after {
-    background-color: #6f6d6d;
+    background-color: #585858fe;
 }
 
 body.dark .navigation-close-line {
